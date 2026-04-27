@@ -1,4 +1,4 @@
-# Decryptool - Ferramenta de Criptografia
+# NCCrypt - Ferramenta de Criptografia
 
 Programa interativo de criptografia e descriptografia em linha de comando para Linux.
 
@@ -55,7 +55,7 @@ make clean
 ## Estrutura do projeto
 
 ```
-Decryptool/
+NCCrypt/
 ├── Makefile
 ├── crypto.h / crypto.c   # Algoritmos de criptografia
 ├── ui.h    / ui.c       # Interface ncurses
