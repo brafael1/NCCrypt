@@ -11,7 +11,7 @@ make
 ## Execução
 
 ```bash
-./decryptool
+./nccrypt
 ```
 
 ## Requisitos
